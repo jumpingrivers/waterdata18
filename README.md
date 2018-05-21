@@ -4,6 +4,8 @@ Prototype application for the Explorers hack-a-thon team for #WaterData18
 
 See the application we made at: [https://jumpingrivers.github.io/waterdata18/www/](https://jumpingrivers.github.io/waterdata18/www/)
 
+Read the source code for the UI at: [https://github.com/jumpingrivers/waterdata18](https://github.com/jumpingrivers/waterdata18)
+
 ## Contributors (The Team)
 
 - Mike Everest
