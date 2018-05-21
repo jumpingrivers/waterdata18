@@ -4,8 +4,6 @@ Prototype application for the Explorers hack-a-thon team for #WaterData2018
 
 See the application we made at: [https://jumpingrivers.github.io/waterdata2018/www/](https://jumpingrivers.github.io/waterdata2018/www/)
 
-## Notes
-
 ## Contributors (The Team)
 
 - Mike Everest
@@ -15,6 +13,11 @@ See the application we made at: [https://jumpingrivers.github.io/waterdata2018/w
 - .
 - .
 - .
+
+## Support
+
+- Yorkshire Water
+- The ODI Leeds
 
 ## Third Party Software
 
