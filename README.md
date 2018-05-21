@@ -2,7 +2,7 @@
 
 Prototype application for the Explorers hack-a-thon team for #WaterData2018
 
-See the application we made at: https://jumpingrivers.github.io/waterdata2018/www/
+See the application we made at: [https://jumpingrivers.github.io/waterdata2018/www/](https://jumpingrivers.github.io/waterdata2018/www/)
 
 ## Notes
 
