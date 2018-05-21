@@ -1,0 +1,93 @@
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  display: grid;
+  grid-template-columns: minmax(15rem,1fr) 4fr;
+  grid-template-rows: 5rem auto 3rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Tajawal', sans-serif;
+}
+
+header {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  border-bottom: solid 1px #333;
+  padding: 0 1rem;
+}
+
+footer {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  text-align: right;
+  padding: 1rem 3rem;
+  border-top: solid 1px #333;
+}
+
+nav {
+  border-right: solid 1px #333;
+  position: relative;
+}
+
+nav ul,
+nav li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+nav a {
+  padding: 1rem;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+}
+nav a:hover {
+  background-color: #999;
+}
+
+#map {
+  height: 80vh;
+}
+
+
+/* MAP */
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+section {
+  width: 100%;
+  height: 100%;
+}
